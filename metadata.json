@@ -1,0 +1,11 @@
+{
+  "name": "Remix Tra Cứu Thuốc - MediScan",
+  "description": "Ứng dụng tra cứu thuốc thông minh qua mã vạch, hình ảnh AI, đối thoại giọng nói, nhắc giờ uống thuốc Thời Gian Vàng và kết nối Cây Sức Khỏe gia đình.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
